@@ -1,5 +1,5 @@
 /*
- * jQuery.stickthis v0.1.0
+ * jQuery.gototop v0.1.0
  * https://github.com/alejandromur/gototop
  *
  * Copyright 2016, alejandro@mamutlove.es
