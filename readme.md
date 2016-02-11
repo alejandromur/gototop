@@ -30,5 +30,3 @@ $(".your-element-selector").gototop({
 
 <h2>Credits</h2>
 <p>• Feel free to download, modify, break, use or destroy this plugin.</p>
-"# gototop" 
-"# gototop" 
